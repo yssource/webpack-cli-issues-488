@@ -43,6 +43,8 @@ or
 yarn run webpack
 ```
 
+[./webpack.png](./webpack.png)  
+
 # testing
 
 Assume the root path of project is `/tmp/webpack-cli-issus-488/`, open the index.html on brower directly. For example.  
